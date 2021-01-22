@@ -1,0 +1,13 @@
+D:\Microsoft Visual Studio\Projets\OpenClassroom\Apprendre le C#\TP3_LeJeuDuPlusOuDuMoins\bin\Debug\netcoreapp3.1\TP3_LeJeuDuPlusOuDuMoins.exe
+D:\Microsoft Visual Studio\Projets\OpenClassroom\Apprendre le C#\TP3_LeJeuDuPlusOuDuMoins\bin\Debug\netcoreapp3.1\TP3_LeJeuDuPlusOuDuMoins.deps.json
+D:\Microsoft Visual Studio\Projets\OpenClassroom\Apprendre le C#\TP3_LeJeuDuPlusOuDuMoins\bin\Debug\netcoreapp3.1\TP3_LeJeuDuPlusOuDuMoins.runtimeconfig.json
+D:\Microsoft Visual Studio\Projets\OpenClassroom\Apprendre le C#\TP3_LeJeuDuPlusOuDuMoins\bin\Debug\netcoreapp3.1\TP3_LeJeuDuPlusOuDuMoins.runtimeconfig.dev.json
+D:\Microsoft Visual Studio\Projets\OpenClassroom\Apprendre le C#\TP3_LeJeuDuPlusOuDuMoins\bin\Debug\netcoreapp3.1\TP3_LeJeuDuPlusOuDuMoins.dll
+D:\Microsoft Visual Studio\Projets\OpenClassroom\Apprendre le C#\TP3_LeJeuDuPlusOuDuMoins\bin\Debug\netcoreapp3.1\TP3_LeJeuDuPlusOuDuMoins.pdb
+D:\Microsoft Visual Studio\Projets\OpenClassroom\Apprendre le C#\TP3_LeJeuDuPlusOuDuMoins\obj\Debug\netcoreapp3.1\TP3_LeJeuDuPlusOuDuMoins.csprojAssemblyReference.cache
+D:\Microsoft Visual Studio\Projets\OpenClassroom\Apprendre le C#\TP3_LeJeuDuPlusOuDuMoins\obj\Debug\netcoreapp3.1\TP3_LeJeuDuPlusOuDuMoins.AssemblyInfoInputs.cache
+D:\Microsoft Visual Studio\Projets\OpenClassroom\Apprendre le C#\TP3_LeJeuDuPlusOuDuMoins\obj\Debug\netcoreapp3.1\TP3_LeJeuDuPlusOuDuMoins.AssemblyInfo.cs
+D:\Microsoft Visual Studio\Projets\OpenClassroom\Apprendre le C#\TP3_LeJeuDuPlusOuDuMoins\obj\Debug\netcoreapp3.1\TP3_LeJeuDuPlusOuDuMoins.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Projets\OpenClassroom\Apprendre le C#\TP3_LeJeuDuPlusOuDuMoins\obj\Debug\netcoreapp3.1\TP3_LeJeuDuPlusOuDuMoins.dll
+D:\Microsoft Visual Studio\Projets\OpenClassroom\Apprendre le C#\TP3_LeJeuDuPlusOuDuMoins\obj\Debug\netcoreapp3.1\TP3_LeJeuDuPlusOuDuMoins.pdb
+D:\Microsoft Visual Studio\Projets\OpenClassroom\Apprendre le C#\TP3_LeJeuDuPlusOuDuMoins\obj\Debug\netcoreapp3.1\TP3_LeJeuDuPlusOuDuMoins.genruntimeconfig.cache

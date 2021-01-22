@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TP3_LeJeuDuPlusOuDuMoins/1.0.0": {
+        "runtime": {
+          "TP3_LeJeuDuPlusOuDuMoins.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP3_LeJeuDuPlusOuDuMoins/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
